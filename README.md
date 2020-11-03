@@ -1,21 +1,15 @@
-# bilibili
+# B站移动端开发
 
-> A Vue.js project
+# 技术栈Vue + vue-router + flex + vant + ES6
 
-## Build Setup
-
-``` bash
-# install dependencies
+# 运行项目
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
+# webpack打包
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+# 接口
+http://112.74.99.5:3000/web/api
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
